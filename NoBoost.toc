@@ -1,0 +1,7 @@
+## Interface: 80205
+## Title: NoBoost
+## Notes: Filters any Boost message from Chat
+## Version: 1.0
+## Author: Lolzen
+
+noboost.lua
